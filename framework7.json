@@ -1,0 +1,19 @@
+{
+  "cwd": "/home/alexandre/dev/perso/projects/cdc",
+  "type": [
+    "pwa"
+  ],
+  "name": "Cul de chouette",
+  "framework": "svelte",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": "scss",
+  "theming": {
+    "customColor": false,
+    "color": "#776c2c",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
